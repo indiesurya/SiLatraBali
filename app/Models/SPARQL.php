@@ -4,7 +4,7 @@ namespace App\Models;
 class SPARQL  {
 
     //The endpoint base URL without parameters
-    public $baseUrl			= "http://lokapaladigital.com:3030  /silatra-bali/query";
+    public $baseUrl			= "http://lokapaladigital.com:3030/silatra-bali/query";
 
     //The result's type
     public $format 			= "json";
